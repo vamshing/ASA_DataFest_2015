@@ -6,7 +6,7 @@ The implementation for the problem
 
 **Problem Statement**:Hypothesis Testing for the Shopping beahviour of Rural vs Urban Customer
 
-**Methods/Techniques**: Shannon's Entropy, Data Merge, Diversity of text searches, T-test/Wilcoxon test, Hypothesis testing
+**Methods/Techniques**: Shannon's Entropy, Data Merge, Diversity of text searches, T-test/p-value , Hypothesis testing
 
 **Results:** We have proved that the rural shopper is under-represented in the user base of edmunds  
 and have given recommendations
