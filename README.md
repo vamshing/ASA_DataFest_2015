@@ -6,7 +6,7 @@ The implementation for the problem
 
 **Problem Statement**:Hypothesis Testing for the Shopping beahviour of Rural vs Urban Customer
 
-**Results:** We have proved that the rural shopper is under-represented in the user base,edmunds has 
+**Results:** We have proved that the rural shopper is under-represented in the user base of edmunds  
 and have given recommendations
 
 **Award:** the **Honorary mention** by the data provider - ***edmunds.com***
