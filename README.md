@@ -12,3 +12,5 @@ and have given recommendations
 **Award:** the **Honorary mention** by the data provider - ***edmunds.com***
 
 (https://stat.duke.edu/~mc301/datafest/)
+
+**Credits:** Guduguntla Vamshi,Abhishek Kedia,DT Oliver,Katie McVay
