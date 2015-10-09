@@ -11,7 +11,7 @@ The implementation for the problem
 **Results:** We have proved that the rural shopper is under-represented in the user base of edmunds  
 and have given recommendations
 
-**Award:** the **Honorary mention** by the data provider - ***edmunds.com***
+**Award:** the **Honorary mention** for **Best Use of External Data** by the data provider - ***edmunds.com***
 
 (https://stat.duke.edu/~mc301/datafest/)
 
