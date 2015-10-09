@@ -1,4 +1,4 @@
-# ASA_DataFest_2015 at DUKE University,North Carolina,USA
+## ASA DataFest 2015 at DUKE University,NC,USA
 
 **Report and code for the Data-Hackathon by the American Statistical Association**
 
